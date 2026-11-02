@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #333333;
+    background-color: #f9f9f9;
+    line-height: 1.5;
+}
+h1 {
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+    color: #2c3e50;
+}
+h2, h3 {
+    color: #d35400;
+    font-weight: 700;
+}
+header {
+    background-color: #ffffff;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+.menu a {
+    color: #2980b9;
+    text-decoration: none;
+    font-weight: bold;
+}
+main > section {
+    background-color: #ffffff;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+a {
+    color: #2980b9;
+    text-decoration: none;
+}
+
+/* --- This is Ai part --- */
+
+.menu a {
+    display: inline-block;
+    width: 80px;
+    height: 25px;
+    text-align: center;
+    padding: 5px;
+    margin-right: 5px;
+}
+
+.notice {
+    display: block;
+    text-align: center;
+    background-color: #fadbd8;
+    color: #900c3f;
+    padding: 8px;
+}
+
+.box-container {
+    text-align: center;
+    margin: 15px 0;
+}
